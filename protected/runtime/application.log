@@ -1,0 +1,2619 @@
+2016/05/24 15:50:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/create
+---
+2016/05/24 15:51:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/create
+---
+2016/05/24 15:54:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/update/id/15562
+---
+2016/05/24 15:55:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/update/id/15561
+---
+2016/05/24 15:55:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/update/id/15562
+---
+2016/05/24 17:13:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/05/24 17:15:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/05/24 17:15:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/05/24 17:15:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/05/24 17:16:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/05/24 17:16:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/05/25 09:20:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/05/25 15:16:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/05/26 09:10:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2016/05/26 15:58:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/modules/docmanager/js/docmanager.js".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('assets/modules/...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/modules/docmanager/js/docmanager.js
+---
+2016/05/27 03:44:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "core/xpdo/changelog.txt".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('core/xpdo/chang...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/core/xpdo/changelog.txt
+---
+2016/05/27 07:32:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "user/register".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('user/register')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/user/register
+---
+2016/05/27 09:45:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2016/05/27 15:01:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "admin/login.php".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('admin/login.php')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/login.php
+---
+2016/05/27 18:48:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "phpshop/admpanel".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('phpshop/admpane...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/phpshop/admpanel/
+---
+2016/05/27 22:34:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "engine/engine.php".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('engine/engine.p...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/engine/engine.php
+---
+2016/05/28 02:09:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=
+---
+2016/05/28 03:17:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "netcat/admin".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('netcat/admin')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/netcat/admin/
+---
+2016/05/28 06:59:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "password_double_opt.php".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('password_double...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/password_double_opt.php
+---
+2016/05/28 10:43:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "hostcmsfiles/main.js".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('hostcmsfiles/ma...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/hostcmsfiles/main.js
+---
+2016/05/28 14:37:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "core/tpl/admin/default.tpl.html".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('core/tpl/admin/...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/core/tpl/admin/default.tpl.html
+---
+2016/05/28 18:18:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/easy.php".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('js/easy.php')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/js/easy.php
+---
+2016/05/28 23:36:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "bitrix/admin".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('bitrix/admin')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/bitrix/admin/
+---
+2016/05/29 03:15:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/admin.js".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('js/admin.js')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/js/admin.js
+---
+2016/05/29 07:03:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "admin/login".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('admin/login')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/login
+---
+2016/05/29 10:44:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "cms/lang/ru_utf8/css/sbIndex.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('cms/lang/ru_utf...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/cms/lang/ru_utf8/css/sbIndex.css
+---
+2016/05/29 14:23:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/api.js".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('js/api.js')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/js/api.js
+---
+2016/05/29 18:06:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "includes/init.php".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('includes/init.p...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/includes/init.php
+---
+2016/05/29 21:51:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "registration".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('registration')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/registration/
+---
+2016/05/30 01:35:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "typo3/border.html".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('typo3/border.ht...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/typo3/border.html
+---
+2016/05/30 05:27:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/index.html".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('assets/index.ht...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/index.html
+---
+2016/05/30 09:11:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "cms/admin/index.php".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('cms/admin/index...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/cms/admin/index.php
+---
+2016/05/30 12:55:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "autoupdate/service/version".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('autoupdate/serv...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/autoupdate/service/version/
+---
+2016/05/30 14:35:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "vam_rss2_info.php".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('vam_rss2_info.p...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/vam_rss2_info.php
+---
+2016/05/30 15:41:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "vamshop.txt".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('vamshop.txt')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/vamshop.txt
+---
+2016/05/30 16:48:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "include/ajax/textPreview.php".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('include/ajax/te...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/include/ajax/textPreview.php
+---
+2016/05/30 17:55:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "shop_content.php".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('shop_content.ph...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/shop_content.php
+---
+2016/05/31 09:18:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2016/05/31 10:07:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "admin/index.php".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('admin/index.php')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php
+---
+2016/06/01 09:23:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2016/06/01 17:52:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/06/02 09:14:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/06/03 09:20:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2016/06/04 02:09:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=
+---
+2016/06/04 06:28:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "cache.php".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('cache.php')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache.php
+---
+2016/06/04 22:43:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "administrator".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('administrator')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/administrator/
+---
+2016/06/04 22:43:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "admin.php".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('admin.php')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin.php
+---
+2016/06/06 09:19:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2016/06/07 04:25:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "admin.php".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('admin.php')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin.php
+---
+2016/06/07 04:25:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "wp-login.php".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('wp-login.php')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/wp-login.php
+---
+2016/06/07 09:15:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2016/06/07 09:33:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "storage/images/sliv.jpg".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('storage/images/...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/storage/images/sliv.jpg
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/06/07 09:33:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "storage/images/sliv.jpg".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('storage/images/...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/storage/images/sliv.jpg
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/06/07 09:33:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "storage/images/sliv.jpg".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('storage/images/...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/storage/images/sliv.jpg?1465273882309
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/06/07 10:11:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/06/07 10:12:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/06/07 10:14:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/06/07 10:23:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/06/07 10:53:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/06/07 11:51:38 [error] [php] explode() expects parameter 2 to be string, array given (/home/u51250/silver96.ru/www/protected/views/categories/myCatalogDefault.php:74)
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CBaseController.php(95): CategoriesController->renderInternal()
+#1 /home/u51250/silver96.ru/www/frmk/web/CController.php(869): CategoriesController->renderFile()
+#2 /home/u51250/silver96.ru/www/frmk/web/CController.php(782): CategoriesController->renderPartial()
+#3 /home/u51250/silver96.ru/www/protected/controllers/CategoriesController.php(170): CategoriesController->render()
+#4 unknown(0): CategoriesController->actionView()
+#5 /home/u51250/silver96.ru/www/frmk/web/actions/CAction.php(109): ReflectionMethod->invokeArgs()
+#6 /home/u51250/silver96.ru/www/frmk/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#7 /home/u51250/silver96.ru/www/frmk/web/CController.php(308): CInlineAction->runWithParams()
+#8 /home/u51250/silver96.ru/www/frmk/web/CController.php(286): CategoriesController->runAction()
+#9 /home/u51250/silver96.ru/www/frmk/web/CController.php(265): CategoriesController->runActionWithFilters()
+#10 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(282): CategoriesController->run()
+#11 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController()
+#12 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#13 /home/u51250/silver96.ru/www/index.php(13): CWebApplication->run()
+REQUEST_URI=/category/1862-statuetki
+2016/06/07 14:01:56 [error] [php] mb_split() expects at least 2 parameters, 1 given (/home/u51250/silver96.ru/www/protected/views/categories/myCatalogDefault.php:73)
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CBaseController.php(95): CategoriesController->renderInternal()
+#1 /home/u51250/silver96.ru/www/frmk/web/CController.php(869): CategoriesController->renderFile()
+#2 /home/u51250/silver96.ru/www/frmk/web/CController.php(782): CategoriesController->renderPartial()
+#3 /home/u51250/silver96.ru/www/protected/controllers/CategoriesController.php(170): CategoriesController->render()
+#4 unknown(0): CategoriesController->actionView()
+#5 /home/u51250/silver96.ru/www/frmk/web/actions/CAction.php(109): ReflectionMethod->invokeArgs()
+#6 /home/u51250/silver96.ru/www/frmk/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#7 /home/u51250/silver96.ru/www/frmk/web/CController.php(308): CInlineAction->runWithParams()
+#8 /home/u51250/silver96.ru/www/frmk/web/CController.php(286): CategoriesController->runAction()
+#9 /home/u51250/silver96.ru/www/frmk/web/CController.php(265): CategoriesController->runActionWithFilters()
+#10 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(282): CategoriesController->run()
+#11 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController()
+#12 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#13 /home/u51250/silver96.ru/www/index.php(13): CWebApplication->run()
+REQUEST_URI=/category/1862-statuetki
+2016/06/07 15:24:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/06/07 15:24:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/06/07 15:25:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/06/07 15:34:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/06/07 15:48:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/06/07 15:54:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/06/07 15:57:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/06/07 15:57:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/06/07 16:40:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/create
+---
+2016/06/07 16:41:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/update/id/15564
+---
+2016/06/07 16:41:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/create
+---
+2016/06/07 16:42:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/create
+---
+2016/06/07 16:43:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/create
+---
+2016/06/07 16:59:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1847-moneti
+---
+2016/06/07 17:18:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/update/id/15564
+---
+2016/06/07 17:19:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/update/id/15560
+---
+2016/06/07 17:19:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/update/id/15561
+---
+2016/06/07 17:19:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/update/id/15562
+---
+2016/06/07 17:19:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/update/id/15565
+---
+2016/06/07 17:19:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/update/id/15567
+---
+2016/06/07 17:31:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/update/id/15564
+---
+2016/06/07 17:33:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/create
+---
+2016/06/07 17:33:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/create
+---
+2016/06/07 17:34:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/create
+---
+2016/06/07 17:34:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/create
+---
+2016/06/07 17:39:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/update/id/15564
+---
+2016/06/07 17:40:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/update/id/15564
+---
+2016/06/07 17:40:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/update/id/15564
+---
+2016/06/07 17:40:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/update/id/15564
+---
+2016/06/07 17:41:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/update/id/15564
+---
+2016/06/07 17:46:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/06/07 17:46:38 [error] [exception.CHttpException.404] exception 'CHttpException' in /home/u51250/silver96.ru/www/protected/controllers/NodesController.php:65
+Stack trace:
+#0 [internal function]: NodesController->actionView('1862', 'lenin-s-veslom-...')
+#1 /home/u51250/silver96.ru/www/frmk/web/actions/CAction.php(109): ReflectionMethod->invokeArgs(Object(NodesController), Array)
+#2 /home/u51250/silver96.ru/www/frmk/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(NodesController), Object(ReflectionMethod), Array)
+#3 /home/u51250/silver96.ru/www/frmk/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /home/u51250/silver96.ru/www/frmk/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#5 /home/u51250/silver96.ru/www/frmk/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(282): CController->run('view')
+#7 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('nodes/view')
+#8 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#9 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/product/1862-lenin-s-veslom-1937g
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/06/07 17:46:44 [error] [exception.CHttpException.404] exception 'CHttpException' in /home/u51250/silver96.ru/www/protected/controllers/NodesController.php:65
+Stack trace:
+#0 [internal function]: NodesController->actionView('1862', 'stalin-s-rujem-...')
+#1 /home/u51250/silver96.ru/www/frmk/web/actions/CAction.php(109): ReflectionMethod->invokeArgs(Object(NodesController), Array)
+#2 /home/u51250/silver96.ru/www/frmk/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(NodesController), Object(ReflectionMethod), Array)
+#3 /home/u51250/silver96.ru/www/frmk/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /home/u51250/silver96.ru/www/frmk/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#5 /home/u51250/silver96.ru/www/frmk/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(282): CController->run('view')
+#7 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('nodes/view')
+#8 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#9 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/product/1862-stalin-s-rujem-1975-god
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/06/07 17:47:01 [error] [exception.CHttpException.404] exception 'CHttpException' in /home/u51250/silver96.ru/www/protected/controllers/NodesController.php:65
+Stack trace:
+#0 [internal function]: NodesController->actionView('1862', 'postarayus-napi...')
+#1 /home/u51250/silver96.ru/www/frmk/web/actions/CAction.php(109): ReflectionMethod->invokeArgs(Object(NodesController), Array)
+#2 /home/u51250/silver96.ru/www/frmk/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(NodesController), Object(ReflectionMethod), Array)
+#3 /home/u51250/silver96.ru/www/frmk/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /home/u51250/silver96.ru/www/frmk/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#5 /home/u51250/silver96.ru/www/frmk/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(282): CController->run('view')
+#7 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('nodes/view')
+#8 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#9 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/product/1862-postarayus-napisat-novuyu
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/06/07 17:47:05 [error] [exception.CHttpException.404] exception 'CHttpException' in /home/u51250/silver96.ru/www/protected/controllers/NodesController.php:65
+Stack trace:
+#0 [internal function]: NodesController->actionView('1862', 'ravnim-obrazom-...')
+#1 /home/u51250/silver96.ru/www/frmk/web/actions/CAction.php(109): ReflectionMethod->invokeArgs(Object(NodesController), Array)
+#2 /home/u51250/silver96.ru/www/frmk/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(NodesController), Object(ReflectionMethod), Array)
+#3 /home/u51250/silver96.ru/www/frmk/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /home/u51250/silver96.ru/www/frmk/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#5 /home/u51250/silver96.ru/www/frmk/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(282): CController->run('view')
+#7 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('nodes/view')
+#8 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#9 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/product/1862-ravnim-obrazom-postoyannoe
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/06/07 17:47:32 [error] [exception.CHttpException.404] exception 'CHttpException' in /home/u51250/silver96.ru/www/protected/controllers/NodesController.php:65
+Stack trace:
+#0 [internal function]: NodesController->actionView('1862', 'povedencheskie')
+#1 /home/u51250/silver96.ru/www/frmk/web/actions/CAction.php(109): ReflectionMethod->invokeArgs(Object(NodesController), Array)
+#2 /home/u51250/silver96.ru/www/frmk/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(NodesController), Object(ReflectionMethod), Array)
+#3 /home/u51250/silver96.ru/www/frmk/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /home/u51250/silver96.ru/www/frmk/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#5 /home/u51250/silver96.ru/www/frmk/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(282): CController->run('view')
+#7 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('nodes/view')
+#8 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#9 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/product/1862-povedencheskie
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/06/08 09:29:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/06/08 13:10:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "wp-content/themes/u-design/scripts/script.js".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('wp-content/them...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/wp-content/themes/u-design/scripts/script.js
+---
+2016/06/08 17:36:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/06/08 17:36:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/06/08 17:36:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/06/08 17:37:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/06/08 17:37:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/06/08 17:37:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/06/08 17:37:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/06/09 09:25:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1850-izdeliya-iz-serebra
+---
+2016/06/09 09:55:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "category/1862-".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('category/1862-')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/category/1862-
+HTTP_REFERER=http://silver96.ru/category/1850-izdeliya-iz-serebra
+---
+2016/06/09 10:13:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/06/09 10:21:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1850-izdeliya-iz-serebra
+---
+2016/06/09 10:48:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/jquery.numberMask.min.js.map".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('js/jquery.numbe...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/js/jquery.numberMask.min.js.map
+---
+2016/06/09 23:08:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "go.php".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('go.php')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/go.php?http://ya.ru=
+---
+2016/06/10 09:26:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2016/06/11 02:05:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=
+---
+2016/06/11 05:09:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "admin.php".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('admin.php')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin.php
+---
+2016/06/14 09:21:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/
+---
+2016/06/15 09:28:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1850-izdeliya-iz-serebra
+---
+2016/06/16 09:27:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/product/15560-stalin-s-rujem-1975-god
+---
+2016/06/16 20:47:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "user".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('user')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/user/
+HTTP_REFERER=http://SILVER96.RU/user/
+---
+2016/06/17 09:25:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1851-maski
+---
+2016/06/17 10:22:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/jquery.numberMask.min.js.map".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('js/jquery.numbe...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/js/jquery.numberMask.min.js.map
+---
+2016/06/17 14:56:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/product/15560-stalin-s-rujem-1975-god
+---
+2016/06/18 02:20:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=
+---
+2016/06/18 06:54:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "wp-content/plugins/revslider/js/rev_admin.js".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('wp-content/plug...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/wp-content/plugins/revslider/js/rev_admin.js
+---
+2016/06/20 09:18:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/product/15560-stalin-s-rujem-1975-god
+---
+2016/06/24 07:07:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "administrator".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('administrator')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/administrator/
+---
+2016/06/24 07:08:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "admin.php".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('admin.php')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin.php
+---
+2016/06/25 02:15:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=
+---
+2016/06/30 08:50:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "version.php".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('version.php')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/version.php
+---
+2016/06/30 08:50:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "tds/version.php".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('tds/version.php')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/tds/version.php
+HTTP_REFERER=http://silver96.ru/version.php
+---
+2016/07/02 02:07:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=
+---
+2016/07/03 22:28:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "wp-content/plugins/revslider/js/rev_admin.js".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('wp-content/plug...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/wp-content/plugins/revslider/js/rev_admin.js
+---
+2016/07/05 11:32:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/
+---
+2016/07/06 09:46:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/
+---
+2016/07/06 09:48:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/jquery.numberMask.min.js.map".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('js/jquery.numbe...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/js/jquery.numberMask.min.js.map
+---
+2016/07/06 09:59:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/update/id/15560
+---
+2016/07/06 10:32:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/jquery.numberMask.min.js.map".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('js/jquery.numbe...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/js/jquery.numberMask.min.js.map
+---
+2016/07/06 10:33:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/update/id/15560
+---
+2016/07/06 10:33:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/update/id/15560
+---
+2016/07/06 11:16:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/product/15560-stalin-s-rujem-1975-god
+---
+2016/07/06 11:20:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/product/15560-stalin-s-rujem-1975-god
+---
+2016/07/06 11:22:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/product/15363-avstriya-1-cent-2002-2015
+---
+2016/07/06 11:32:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/jquery.numberMask.min.js.map".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('js/jquery.numbe...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/js/jquery.numberMask.min.js.map
+---
+2016/07/06 11:48:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/update/id/15560
+---
+2016/07/06 11:49:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/update/id/15560
+---
+2016/07/06 11:50:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/update/id/15560
+---
+2016/07/06 11:53:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/product/15560-stalin-s-rujem-1975-god
+---
+2016/07/06 11:54:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/update/id/15560
+---
+2016/07/06 11:55:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/update/id/15560
+---
+2016/07/06 11:55:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/update/id/15560
+---
+2016/07/06 11:55:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/update/id/15560
+---
+2016/07/06 11:55:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/update/id/15560
+---
+2016/07/06 11:59:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/categories/update/id/1862
+---
+2016/07/06 13:36:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/jquery.numberMask.min.js.map".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('js/jquery.numbe...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/js/jquery.numberMask.min.js.map
+---
+2016/07/06 13:37:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1850-izdeliya-iz-serebra
+---
+2016/07/06 13:37:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/product/15560-stalin-s-rujem-1975-god
+---
+2016/07/06 13:37:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/jquery.numberMask.min.js.map".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('js/jquery.numbe...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/js/jquery.numberMask.min.js.map
+---
+2016/07/06 14:37:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/category/1862-statuetki
+---
+2016/07/06 19:42:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2016/07/06 19:42:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/
+---
+2016/07/06 19:44:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2016/07/08 10:57:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/
+---
+2016/07/08 11:00:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/update/id/15560
+---
+2016/07/08 11:00:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/update/id/15560
+---
+2016/07/08 11:03:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/product/15560-stalin-s-rujem-1975-god
+---
+2016/07/08 11:03:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/update/id/15560
+---
+2016/07/08 11:03:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/update/id/15560
+---
+2016/07/08 11:04:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ckeditor/control.css".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('css/ckeditor/co...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ckeditor/control.css
+HTTP_REFERER=http://silver96.ru/admin/nodes/update/id/15560
+---
+2016/07/08 11:04:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/product/15560-stalin-s-rujem-1975-god
+---
+2016/07/09 02:12:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=
+---
+2016/07/10 20:56:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "sitemap.xml".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('sitemap.xml')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/sitemap.xml
+---
+2016/07/12 18:47:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "wp-content/plugins/robotcpa/f.php".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('wp-content/plug...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/wp-content/plugins/robotcpa/f.php?l=cGhwOi8vZmlsdGVyL3Jlc291cmNlPS4vLi4vLi4vLi4vd3AtY29uZmlnLnBocA==
+---
+2016/07/12 18:47:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "wp-content/plugins/db-backup/download.php".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('wp-content/plug...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/wp-content/plugins/db-backup/download.php?file=../../../wp-config.php
+---
+2016/07/12 18:47:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "wp-content/plugins/brandfolder/callback.php".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('wp-content/plug...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/wp-content/plugins/brandfolder/callback.php?wp_abspath=../../../wp-config.php%00
+---
+2016/07/12 18:47:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "wp-content/themes/mTheme-Unus/css/css.php".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('wp-content/them...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/wp-content/themes/mTheme-Unus/css/css.php?files=../../../../wp-config.php
+---
+2016/07/13 02:42:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "wp-admin/install.php".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('wp-admin/instal...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/wp-admin/install.php
+---
+2016/07/15 00:51:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "cache.php".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('cache.php')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache.php
+---
+2016/07/19 09:18:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/test
+---
+2016/07/19 09:24:40 [error] [exception.CHttpException.404] exception 'CHttpException' in /home/u51250/silver96.ru/www/protected/controllers/AsyncController.php:208
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/actions/CInlineAction.php(49): AsyncController->actionGetJson()
+#1 /home/u51250/silver96.ru/www/frmk/web/CController.php(308): CInlineAction->runWithParams(Array)
+#2 /home/u51250/silver96.ru/www/frmk/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#3 /home/u51250/silver96.ru/www/frmk/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#4 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(282): CController->run('getJson')
+#5 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('async/getJson')
+#6 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#7 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#8 {main}
+REQUEST_URI=/async/getJson
+---
+2016/07/19 09:30:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/
+---
+2016/07/19 09:41:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/
+---
+2016/07/19 09:43:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/news
+---
+2016/07/19 09:44:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/news
+---
+2016/07/19 09:44:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/news
+---
+2016/07/19 09:45:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2016/07/19 09:45:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2016/07/19 10:00:16 [error] [exception.CHttpException.404] exception 'CHttpException' in /home/u51250/silver96.ru/www/protected/controllers/AsyncController.php:208
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/actions/CInlineAction.php(49): AsyncController->actionGetJson()
+#1 /home/u51250/silver96.ru/www/frmk/web/CController.php(308): CInlineAction->runWithParams(Array)
+#2 /home/u51250/silver96.ru/www/frmk/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#3 /home/u51250/silver96.ru/www/frmk/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#4 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(282): CController->run('getJson')
+#5 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('async/getJson')
+#6 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#7 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#8 {main}
+REQUEST_URI=/async/getJson
+HTTP_REFERER=http://silver96.ru/news
+---
+2016/07/19 10:00:55 [error] [exception.CHttpException.404] exception 'CHttpException' in /home/u51250/silver96.ru/www/protected/controllers/AsyncController.php:208
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/actions/CInlineAction.php(49): AsyncController->actionGetJson()
+#1 /home/u51250/silver96.ru/www/frmk/web/CController.php(308): CInlineAction->runWithParams(Array)
+#2 /home/u51250/silver96.ru/www/frmk/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#3 /home/u51250/silver96.ru/www/frmk/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#4 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(282): CController->run('getJson')
+#5 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('async/getJson')
+#6 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#7 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#8 {main}
+REQUEST_URI=/async/getJson
+HTTP_REFERER=http://silver96.ru/news
+---
+2016/07/19 10:02:09 [error] [exception.CHttpException.404] exception 'CHttpException' in /home/u51250/silver96.ru/www/protected/controllers/AsyncController.php:208
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/actions/CInlineAction.php(49): AsyncController->actionGetJson()
+#1 /home/u51250/silver96.ru/www/frmk/web/CController.php(308): CInlineAction->runWithParams(Array)
+#2 /home/u51250/silver96.ru/www/frmk/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#3 /home/u51250/silver96.ru/www/frmk/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#4 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(282): CController->run('getJson')
+#5 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('async/getJson')
+#6 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#7 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#8 {main}
+REQUEST_URI=/async/getJson
+HTTP_REFERER=http://silver96.ru/news
+---
+2016/07/19 10:03:34 [error] [exception.CHttpException.404] exception 'CHttpException' in /home/u51250/silver96.ru/www/protected/controllers/AsyncController.php:208
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/actions/CInlineAction.php(49): AsyncController->actionGetJson()
+#1 /home/u51250/silver96.ru/www/frmk/web/CController.php(308): CInlineAction->runWithParams(Array)
+#2 /home/u51250/silver96.ru/www/frmk/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#3 /home/u51250/silver96.ru/www/frmk/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#4 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(282): CController->run('getJson')
+#5 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('async/getJson')
+#6 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#7 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#8 {main}
+REQUEST_URI=/async/getJson
+HTTP_REFERER=http://silver96.ru/news
+---
+2016/07/19 10:03:50 [error] [exception.CHttpException.404] exception 'CHttpException' in /home/u51250/silver96.ru/www/protected/controllers/AsyncController.php:208
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/actions/CInlineAction.php(49): AsyncController->actionGetJson()
+#1 /home/u51250/silver96.ru/www/frmk/web/CController.php(308): CInlineAction->runWithParams(Array)
+#2 /home/u51250/silver96.ru/www/frmk/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#3 /home/u51250/silver96.ru/www/frmk/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#4 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(282): CController->run('getJson')
+#5 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('async/getJson')
+#6 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#7 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#8 {main}
+REQUEST_URI=/async/getJson
+HTTP_REFERER=http://silver96.ru/news
+---
+2016/07/19 10:04:02 [error] [exception.CHttpException.404] exception 'CHttpException' in /home/u51250/silver96.ru/www/protected/controllers/AsyncController.php:208
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/actions/CInlineAction.php(49): AsyncController->actionGetJson()
+#1 /home/u51250/silver96.ru/www/frmk/web/CController.php(308): CInlineAction->runWithParams(Array)
+#2 /home/u51250/silver96.ru/www/frmk/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#3 /home/u51250/silver96.ru/www/frmk/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#4 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(282): CController->run('getJson')
+#5 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('async/getJson')
+#6 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#7 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#8 {main}
+REQUEST_URI=/async/getJson
+HTTP_REFERER=http://silver96.ru/news
+---
+2016/07/19 10:53:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "browserconfig.xml".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('browserconfig.x...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/browserconfig.xml
+---
+2016/07/19 11:07:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/news
+---
+2016/07/19 11:08:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/news
+---
+2016/07/19 11:08:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/news
+---
+2016/07/19 11:08:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/news
+---
+2016/07/19 11:49:12 [error] [exception.CHttpException.404] exception 'CHttpException' in /home/u51250/silver96.ru/www/protected/controllers/AsyncController.php:208
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/actions/CInlineAction.php(49): AsyncController->actionGetJson()
+#1 /home/u51250/silver96.ru/www/frmk/web/CController.php(308): CInlineAction->runWithParams(Array)
+#2 /home/u51250/silver96.ru/www/frmk/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#3 /home/u51250/silver96.ru/www/frmk/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#4 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(282): CController->run('getJson')
+#5 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('async/getJson')
+#6 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#7 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#8 {main}
+REQUEST_URI=/async/getJson
+HTTP_REFERER=http://silver96.ru/news
+---
+2016/07/19 11:49:23 [error] [exception.CHttpException.404] exception 'CHttpException' in /home/u51250/silver96.ru/www/protected/controllers/AsyncController.php:208
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/actions/CInlineAction.php(49): AsyncController->actionGetJson()
+#1 /home/u51250/silver96.ru/www/frmk/web/CController.php(308): CInlineAction->runWithParams(Array)
+#2 /home/u51250/silver96.ru/www/frmk/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#3 /home/u51250/silver96.ru/www/frmk/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#4 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(282): CController->run('getJson')
+#5 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('async/getJson')
+#6 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#7 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#8 {main}
+REQUEST_URI=/async/getJson
+HTTP_REFERER=http://silver96.ru/news
+---
+2016/07/19 11:49:42 [error] [exception.CHttpException.404] exception 'CHttpException' in /home/u51250/silver96.ru/www/protected/controllers/AsyncController.php:208
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/actions/CInlineAction.php(49): AsyncController->actionGetJson()
+#1 /home/u51250/silver96.ru/www/frmk/web/CController.php(308): CInlineAction->runWithParams(Array)
+#2 /home/u51250/silver96.ru/www/frmk/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#3 /home/u51250/silver96.ru/www/frmk/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#4 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(282): CController->run('getJson')
+#5 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('async/getJson')
+#6 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#7 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#8 {main}
+REQUEST_URI=/async/getJson
+HTTP_REFERER=http://silver96.ru/news
+---
+2016/07/19 15:39:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/news
+---
+2016/07/19 17:57:25 [error] [exception.CHttpException.404] exception 'CHttpException' in /home/u51250/silver96.ru/www/protected/controllers/AsyncController.php:209
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/actions/CInlineAction.php(49): AsyncController->actionGetJson()
+#1 /home/u51250/silver96.ru/www/frmk/web/CController.php(308): CInlineAction->runWithParams(Array)
+#2 /home/u51250/silver96.ru/www/frmk/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#3 /home/u51250/silver96.ru/www/frmk/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#4 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(282): CController->run('getJson')
+#5 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('async/getJson')
+#6 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#7 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#8 {main}
+REQUEST_URI=/async/getJson
+---
+2016/07/19 17:58:35 [error] [exception.CHttpException.404] exception 'CHttpException' in /home/u51250/silver96.ru/www/protected/controllers/AsyncController.php:209
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/actions/CInlineAction.php(49): AsyncController->actionGetJson()
+#1 /home/u51250/silver96.ru/www/frmk/web/CController.php(308): CInlineAction->runWithParams(Array)
+#2 /home/u51250/silver96.ru/www/frmk/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#3 /home/u51250/silver96.ru/www/frmk/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#4 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(282): CController->run('getJson')
+#5 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('async/getJson')
+#6 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#7 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#8 {main}
+REQUEST_URI=/async/getJson
+---
+2016/07/19 18:01:35 [error] [exception.CHttpException.404] exception 'CHttpException' in /home/u51250/silver96.ru/www/protected/controllers/AsyncController.php:209
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/actions/CInlineAction.php(49): AsyncController->actionGetJson()
+#1 /home/u51250/silver96.ru/www/frmk/web/CController.php(308): CInlineAction->runWithParams(Array)
+#2 /home/u51250/silver96.ru/www/frmk/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#3 /home/u51250/silver96.ru/www/frmk/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#4 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(282): CController->run('getJson')
+#5 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('async/getJson')
+#6 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#7 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#8 {main}
+REQUEST_URI=/async/getJson
+---
+2016/07/19 18:01:52 [error] [exception.CHttpException.404] exception 'CHttpException' in /home/u51250/silver96.ru/www/protected/controllers/AsyncController.php:209
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/actions/CInlineAction.php(49): AsyncController->actionGetJson()
+#1 /home/u51250/silver96.ru/www/frmk/web/CController.php(308): CInlineAction->runWithParams(Array)
+#2 /home/u51250/silver96.ru/www/frmk/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#3 /home/u51250/silver96.ru/www/frmk/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#4 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(282): CController->run('getJson')
+#5 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('async/getJson')
+#6 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#7 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#8 {main}
+REQUEST_URI=/async/getJson
+---
+2016/07/19 18:02:24 [error] [exception.CHttpException.404] exception 'CHttpException' in /home/u51250/silver96.ru/www/protected/controllers/AsyncController.php:209
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/actions/CInlineAction.php(49): AsyncController->actionGetJson()
+#1 /home/u51250/silver96.ru/www/frmk/web/CController.php(308): CInlineAction->runWithParams(Array)
+#2 /home/u51250/silver96.ru/www/frmk/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#3 /home/u51250/silver96.ru/www/frmk/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#4 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(282): CController->run('getJson')
+#5 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('async/getJson')
+#6 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#7 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#8 {main}
+REQUEST_URI=/async/getJson
+---
+2016/07/20 03:29:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос ".git/info/refs".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('.git/info/refs')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/.git/info/refs?service=git-upload-pack
+---
+2016/07/20 09:10:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/news
+---
+2016/07/20 10:19:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/news
+---
+2016/07/20 10:32:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/news
+---
+2016/07/20 13:15:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "xmlrpc.php".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('xmlrpc.php')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/xmlrpc.php?rsd
+---
+2016/07/20 13:15:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "blog/robots.txt".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('blog/robots.txt')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/blog/robots.txt
+---
+2016/07/20 13:15:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "blog".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('blog')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/blog/
+---
+2016/07/20 13:15:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "wordpress".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('wordpress')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/wordpress/
+---
+2016/07/20 13:15:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "wp".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('wp')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/wp/
+---
+2016/07/20 13:33:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/news
+---
+2016/07/21 14:19:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/
+---
+2016/07/21 16:14:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "wp-content/plugins/gravityforms/js/gravityforms.js".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('wp-content/plug...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/wp-content/plugins/gravityforms/js/gravityforms.js
+---
+2016/07/21 16:24:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/
+---
+2016/07/21 16:34:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/
+---
+2016/07/21 17:16:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/news
+---
+2016/07/21 17:25:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/news
+---
+2016/07/21 17:44:44 [error] [exception.CHttpException.404] exception 'CHttpException' in /home/u51250/silver96.ru/www/protected/controllers/AsyncController.php:209
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/actions/CInlineAction.php(49): AsyncController->actionGetJson()
+#1 /home/u51250/silver96.ru/www/frmk/web/CController.php(308): CInlineAction->runWithParams(Array)
+#2 /home/u51250/silver96.ru/www/frmk/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#3 /home/u51250/silver96.ru/www/frmk/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#4 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(282): CController->run('getJson')
+#5 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('async/getJson')
+#6 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#7 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#8 {main}
+REQUEST_URI=/async/getJson
+---
+2016/07/21 22:05:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "xmlrpc.php".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('xmlrpc.php')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/xmlrpc.php?rsd
+---
+2016/07/21 22:05:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "blog/robots.txt".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('blog/robots.txt')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/blog/robots.txt
+---
+2016/07/21 22:05:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "blog".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('blog')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/blog/
+---
+2016/07/21 22:05:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "wordpress".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('wordpress')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/wordpress/
+---
+2016/07/21 22:05:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "wp".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('wp')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/wp/
+---
+2016/07/22 08:45:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "xmlrpc.php".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('xmlrpc.php')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/xmlrpc.php?rsd
+---
+2016/07/22 08:45:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "blog/robots.txt".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('blog/robots.txt')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/blog/robots.txt
+---
+2016/07/22 08:45:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "blog".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('blog')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/blog/
+---
+2016/07/22 08:45:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "wordpress".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('wordpress')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/wordpress/
+---
+2016/07/22 08:45:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "wp".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('wp')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/wp/
+---
+2016/07/22 10:11:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/news
+---
+2016/07/22 10:32:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2016/07/22 10:32:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2016/07/22 11:02:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/
+---
+2016/07/22 11:25:29 [error] [exception.CHttpException.404] exception 'CHttpException' in /home/u51250/silver96.ru/www/protected/controllers/AsyncController.php:209
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/actions/CInlineAction.php(49): AsyncController->actionGetJson()
+#1 /home/u51250/silver96.ru/www/frmk/web/CController.php(308): CInlineAction->runWithParams(Array)
+#2 /home/u51250/silver96.ru/www/frmk/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#3 /home/u51250/silver96.ru/www/frmk/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#4 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(282): CController->run('getJson')
+#5 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('async/getJson')
+#6 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#7 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#8 {main}
+REQUEST_URI=/async/getJson
+---
+2016/07/22 16:16:28 [error] [exception.CHttpException.404] exception 'CHttpException' in /home/u51250/silver96.ru/www/protected/controllers/AsyncController.php:209
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/actions/CInlineAction.php(49): AsyncController->actionGetJson()
+#1 /home/u51250/silver96.ru/www/frmk/web/CController.php(308): CInlineAction->runWithParams(Array)
+#2 /home/u51250/silver96.ru/www/frmk/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#3 /home/u51250/silver96.ru/www/frmk/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#4 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(282): CController->run('getJson')
+#5 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('async/getJson')
+#6 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#7 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#8 {main}
+REQUEST_URI=/async/getJson
+---
+2016/07/22 16:18:17 [error] [exception.CHttpException.404] exception 'CHttpException' in /home/u51250/silver96.ru/www/protected/controllers/AsyncController.php:209
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/actions/CInlineAction.php(49): AsyncController->actionGetJson()
+#1 /home/u51250/silver96.ru/www/frmk/web/CController.php(308): CInlineAction->runWithParams(Array)
+#2 /home/u51250/silver96.ru/www/frmk/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#3 /home/u51250/silver96.ru/www/frmk/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#4 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(282): CController->run('getJson')
+#5 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('async/getJson')
+#6 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#7 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#8 {main}
+REQUEST_URI=/async/getJson
+---
+2016/07/22 16:19:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/
+---
+2016/07/22 16:21:08 [error] [exception.CHttpException.404] exception 'CHttpException' in /home/u51250/silver96.ru/www/protected/controllers/AsyncController.php:209
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/actions/CInlineAction.php(49): AsyncController->actionGetJson()
+#1 /home/u51250/silver96.ru/www/frmk/web/CController.php(308): CInlineAction->runWithParams(Array)
+#2 /home/u51250/silver96.ru/www/frmk/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#3 /home/u51250/silver96.ru/www/frmk/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#4 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(282): CController->run('getJson')
+#5 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('async/getJson')
+#6 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#7 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#8 {main}
+REQUEST_URI=/async/getJson
+---
+2016/07/22 16:27:42 [error] [exception.CHttpException.404] exception 'CHttpException' in /home/u51250/silver96.ru/www/protected/controllers/AsyncController.php:209
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/actions/CInlineAction.php(49): AsyncController->actionGetJson()
+#1 /home/u51250/silver96.ru/www/frmk/web/CController.php(308): CInlineAction->runWithParams(Array)
+#2 /home/u51250/silver96.ru/www/frmk/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#3 /home/u51250/silver96.ru/www/frmk/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#4 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(282): CController->run('getJson')
+#5 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('async/getJson')
+#6 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#7 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#8 {main}
+REQUEST_URI=/async/getJson
+---
+2016/07/23 01:42:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=
+---
+2016/07/24 00:51:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "license.php".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('license.php')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/license.php
+---
+2016/07/25 00:57:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "wp-content/themes/purevision/sliders/swfobject.js".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('wp-content/them...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/wp-content/themes/purevision/sliders/swfobject.js
+---
+2016/07/26 17:03:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/
+---
+2016/07/28 09:21:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://silver96.ru/
+---
+2016/07/28 21:59:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "stats".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('stats')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/stats/
+HTTP_REFERER=http://SILVER96.RU/stats/
+---
+2016/07/29 15:01:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "wp-content/plugins/wysija-newsletters/js/tinymce/tiny_mce.js".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('wp-content/plug...')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/wp-content/plugins/wysija-newsletters/js/tinymce/tiny_mce.js
+---
+2016/07/30 01:48:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u51250/silver96.ru/www/frmk/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u51250/silver96.ru/www/frmk/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/u51250/silver96.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=
+---
+2017/01/17 15:22:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/jquery.numberMask.min.js.map".' in C:\OpenServer\domains\silver96\frmk\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\silver96\frmk\web\CWebApplication.php(141): CWebApplication->runController('js/jquery.numbe...')
+#1 C:\OpenServer\domains\silver96\frmk\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\silver96\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/js/jquery.numberMask.min.js.map
+---
+2017/01/19 15:31:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "browserconfig.xml".' in C:\OpenServer\domains\silver96\frmk\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\silver96\frmk\web\CWebApplication.php(141): CWebApplication->runController('browserconfig.x...')
+#1 C:\OpenServer\domains\silver96\frmk\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\silver96\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/browserconfig.xml
+---
+2017/01/19 15:32:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/jquery.numberMask.min.js.map".' in C:\OpenServer\domains\silver96\frmk\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\silver96\frmk\web\CWebApplication.php(141): CWebApplication->runController('js/jquery.numbe...')
+#1 C:\OpenServer\domains\silver96\frmk\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\silver96\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/js/jquery.numberMask.min.js.map
+---
+2017/01/19 15:33:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/jquery.numberMask.min.js.map".' in C:\OpenServer\domains\silver96\frmk\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\silver96\frmk\web\CWebApplication.php(141): CWebApplication->runController('js/jquery.numbe...')
+#1 C:\OpenServer\domains\silver96\frmk\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\silver96\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/js/jquery.numberMask.min.js.map
+---
+2017/01/19 15:36:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/jquery.numberMask.min.js.map".' in C:\OpenServer\domains\silver96\frmk\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\silver96\frmk\web\CWebApplication.php(141): CWebApplication->runController('js/jquery.numbe...')
+#1 C:\OpenServer\domains\silver96\frmk\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\silver96\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/js/jquery.numberMask.min.js.map
+---
+2017/01/19 15:36:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/jquery.numberMask.min.js.map".' in C:\OpenServer\domains\silver96\frmk\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\silver96\frmk\web\CWebApplication.php(141): CWebApplication->runController('js/jquery.numbe...')
+#1 C:\OpenServer\domains\silver96\frmk\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\silver96\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/js/jquery.numberMask.min.js.map
+---
+2017/01/19 15:37:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/jquery.numberMask.min.js.map".' in C:\OpenServer\domains\silver96\frmk\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\silver96\frmk\web\CWebApplication.php(141): CWebApplication->runController('js/jquery.numbe...')
+#1 C:\OpenServer\domains\silver96\frmk\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\silver96\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/js/jquery.numberMask.min.js.map
+---
+2017/01/19 15:37:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/jquery.numberMask.min.js.map".' in C:\OpenServer\domains\silver96\frmk\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\silver96\frmk\web\CWebApplication.php(141): CWebApplication->runController('js/jquery.numbe...')
+#1 C:\OpenServer\domains\silver96\frmk\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\silver96\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/js/jquery.numberMask.min.js.map
+---
+2017/01/19 15:38:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/jquery.numberMask.min.js.map".' in C:\OpenServer\domains\silver96\frmk\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\silver96\frmk\web\CWebApplication.php(141): CWebApplication->runController('js/jquery.numbe...')
+#1 C:\OpenServer\domains\silver96\frmk\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\silver96\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/js/jquery.numberMask.min.js.map
+---
+2017/01/19 15:43:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/jquery.numberMask.min.js.map".' in C:\OpenServer\domains\silver96\frmk\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\silver96\frmk\web\CWebApplication.php(141): CWebApplication->runController('js/jquery.numbe...')
+#1 C:\OpenServer\domains\silver96\frmk\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\silver96\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/js/jquery.numberMask.min.js.map
+---
+2017/01/19 15:44:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/jquery.numberMask.min.js.map".' in C:\OpenServer\domains\silver96\frmk\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\silver96\frmk\web\CWebApplication.php(141): CWebApplication->runController('js/jquery.numbe...')
+#1 C:\OpenServer\domains\silver96\frmk\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\silver96\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/js/jquery.numberMask.min.js.map
+---
+2017/01/19 15:45:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "browserconfig.xml".' in C:\OpenServer\domains\silver96\frmk\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\silver96\frmk\web\CWebApplication.php(141): CWebApplication->runController('browserconfig.x...')
+#1 C:\OpenServer\domains\silver96\frmk\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\silver96\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/browserconfig.xml
+---
+2017/01/19 17:38:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "browserconfig.xml".' in C:\OpenServer\domains\silver96\frmk\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\silver96\frmk\web\CWebApplication.php(141): CWebApplication->runController('browserconfig.x...')
+#1 C:\OpenServer\domains\silver96\frmk\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\silver96\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/browserconfig.xml
+---
+2017/01/24 17:03:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/jquery.numberMask.min.js.map".' in C:\OpenServer\domains\silver96.ms1\frmk\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\silver96.ms1\frmk\web\CWebApplication.php(141): CWebApplication->runController('js/jquery.numbe...')
+#1 C:\OpenServer\domains\silver96.ms1\frmk\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\silver96.ms1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/js/jquery.numberMask.min.js.map
+---
+2017/01/24 17:04:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/jquery.numberMask.min.js.map".' in C:\OpenServer\domains\silver96.ms1\frmk\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\silver96.ms1\frmk\web\CWebApplication.php(141): CWebApplication->runController('js/jquery.numbe...')
+#1 C:\OpenServer\domains\silver96.ms1\frmk\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\silver96.ms1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/js/jquery.numberMask.min.js.map
+---
+2017/01/26 14:42:21 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Некорректный запрос.' in C:\OpenServer\domains\silver96.ms1\frmk\web\CController.php:336
+Stack trace:
+#0 C:\OpenServer\domains\silver96.ms1\frmk\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\OpenServer\domains\silver96.ms1\frmk\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#2 C:\OpenServer\domains\silver96.ms1\frmk\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#3 C:\OpenServer\domains\silver96.ms1\frmk\web\CWebApplication.php(282): CController->run('send')
+#4 C:\OpenServer\domains\silver96.ms1\frmk\web\CWebApplication.php(141): CWebApplication->runController('grant/send')
+#5 C:\OpenServer\domains\silver96.ms1\frmk\base\CApplication.php(184): CWebApplication->processRequest()
+#6 C:\OpenServer\domains\silver96.ms1\index.php(13): CApplication->run()
+#7 {main}
+REQUEST_URI=/grant/send
+---
+2017/01/26 14:42:37 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Некорректный запрос.' in C:\OpenServer\domains\silver96.ms1\frmk\web\CController.php:336
+Stack trace:
+#0 C:\OpenServer\domains\silver96.ms1\frmk\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\OpenServer\domains\silver96.ms1\frmk\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#2 C:\OpenServer\domains\silver96.ms1\frmk\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#3 C:\OpenServer\domains\silver96.ms1\frmk\web\CWebApplication.php(282): CController->run('send')
+#4 C:\OpenServer\domains\silver96.ms1\frmk\web\CWebApplication.php(141): CWebApplication->runController('grant/send')
+#5 C:\OpenServer\domains\silver96.ms1\frmk\base\CApplication.php(184): CWebApplication->processRequest()
+#6 C:\OpenServer\domains\silver96.ms1\index.php(13): CApplication->run()
+#7 {main}
+REQUEST_URI=/grant/send
+---
+2017/01/26 14:43:02 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Некорректный запрос.' in C:\OpenServer\domains\silver96.ms1\frmk\web\CController.php:336
+Stack trace:
+#0 C:\OpenServer\domains\silver96.ms1\frmk\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\OpenServer\domains\silver96.ms1\frmk\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#2 C:\OpenServer\domains\silver96.ms1\frmk\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#3 C:\OpenServer\domains\silver96.ms1\frmk\web\CWebApplication.php(282): CController->run('send')
+#4 C:\OpenServer\domains\silver96.ms1\frmk\web\CWebApplication.php(141): CWebApplication->runController('grant/send')
+#5 C:\OpenServer\domains\silver96.ms1\frmk\base\CApplication.php(184): CWebApplication->processRequest()
+#6 C:\OpenServer\domains\silver96.ms1\index.php(13): CApplication->run()
+#7 {main}
+REQUEST_URI=/grant/send
+---
+2017/01/26 14:48:59 [error] [php] fopen(C:/OpenServer/domains/silver96.ms1/protected/smcreate/post.txt): failed to open stream: Permission denied (C:\OpenServer\domains\silver96.ms1\protected\controllers\GrantController.php:20)
+Stack trace:
+#0 C:\OpenServer\domains\silver96.ms1\frmk\web\CController.php(308): CInlineAction->runWithParams()
+#1 C:\OpenServer\domains\silver96.ms1\frmk\web\CController.php(286): GrantController->runAction()
+#2 C:\OpenServer\domains\silver96.ms1\frmk\web\CController.php(265): GrantController->runActionWithFilters()
+#3 C:\OpenServer\domains\silver96.ms1\frmk\web\CWebApplication.php(282): GrantController->run()
+#4 C:\OpenServer\domains\silver96.ms1\frmk\web\CWebApplication.php(141): CWebApplication->runController()
+#5 C:\OpenServer\domains\silver96.ms1\frmk\base\CApplication.php(184): CWebApplication->processRequest()
+#6 C:\OpenServer\domains\silver96.ms1\index.php(13): CWebApplication->run()
+REQUEST_URI=/grant/qwer
+2017/01/26 14:49:05 [error] [php] fopen(C:/OpenServer/domains/silver96.ms1/protected/smcreate/post.txt): failed to open stream: Permission denied (C:\OpenServer\domains\silver96.ms1\protected\controllers\GrantController.php:20)
+Stack trace:
+#0 C:\OpenServer\domains\silver96.ms1\frmk\web\CController.php(308): CInlineAction->runWithParams()
+#1 C:\OpenServer\domains\silver96.ms1\frmk\web\CController.php(286): GrantController->runAction()
+#2 C:\OpenServer\domains\silver96.ms1\frmk\web\CController.php(265): GrantController->runActionWithFilters()
+#3 C:\OpenServer\domains\silver96.ms1\frmk\web\CWebApplication.php(282): GrantController->run()
+#4 C:\OpenServer\domains\silver96.ms1\frmk\web\CWebApplication.php(141): CWebApplication->runController()
+#5 C:\OpenServer\domains\silver96.ms1\frmk\base\CApplication.php(184): CWebApplication->processRequest()
+#6 C:\OpenServer\domains\silver96.ms1\index.php(13): CWebApplication->run()
+REQUEST_URI=/grant/qwer
+2017/01/26 15:49:40 [error] [php] fopen(/protected/smcreate/post.txt): failed to open stream: No such file or directory (C:\OpenServer\domains\silver96.ms1\protected\commands\MailerCommand.php:47)
+Stack trace:
+#0 C:\OpenServer\domains\silver96.ms1\frmk\console\CConsoleCommand.php(172): ReflectionMethod->invokeArgs()
+#1 C:\OpenServer\domains\silver96.ms1\frmk\console\CConsoleCommandRunner.php(71): MailerCommand->run()
+#2 C:\OpenServer\domains\silver96.ms1\frmk\console\CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#3 C:\OpenServer\domains\silver96.ms1\frmk\base\CApplication.php(184): CConsoleApplication->processRequest()
+#4 C:\OpenServer\domains\silver96.ms1\console.php(13): CConsoleApplication->run()
+
+in C:\OpenServer\domains\silver96.ms1\protected\commands\MailerCommand.php (47)
+in C:\OpenServer\domains\silver96.ms1\console.php (13)
+2017/01/26 15:50:07 [error] [php] fopen(/protected/smcreate/post.txt): failed to open stream: No such file or directory (C:\OpenServer\domains\silver96.ms1\protected\commands\MailerCommand.php:47)
+Stack trace:
+#0 C:\OpenServer\domains\silver96.ms1\frmk\console\CConsoleCommand.php(172): ReflectionMethod->invokeArgs()
+#1 C:\OpenServer\domains\silver96.ms1\frmk\console\CConsoleCommandRunner.php(71): MailerCommand->run()
+#2 C:\OpenServer\domains\silver96.ms1\frmk\console\CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#3 C:\OpenServer\domains\silver96.ms1\frmk\base\CApplication.php(184): CConsoleApplication->processRequest()
+#4 C:\OpenServer\domains\silver96.ms1\console.php(13): CConsoleApplication->run()
+
+in C:\OpenServer\domains\silver96.ms1\protected\commands\MailerCommand.php (47)
+in C:\OpenServer\domains\silver96.ms1\console.php (13)
+2017/01/26 15:50:48 [error] [php] fopen(/protected/smcreate/post.txt): failed to open stream: No such file or directory (C:\OpenServer\domains\silver96.ms1\protected\commands\MailerCommand.php:47)
+Stack trace:
+#0 C:\OpenServer\domains\silver96.ms1\frmk\console\CConsoleCommand.php(172): ReflectionMethod->invokeArgs()
+#1 C:\OpenServer\domains\silver96.ms1\frmk\console\CConsoleCommandRunner.php(71): MailerCommand->run()
+#2 C:\OpenServer\domains\silver96.ms1\frmk\console\CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#3 C:\OpenServer\domains\silver96.ms1\frmk\base\CApplication.php(184): CConsoleApplication->processRequest()
+#4 C:\OpenServer\domains\silver96.ms1\console.php(13): CConsoleApplication->run()
+
+in C:\OpenServer\domains\silver96.ms1\protected\commands\MailerCommand.php (47)
+in C:\OpenServer\domains\silver96.ms1\console.php (13)
+2017/01/26 15:56:06 [error] [php] fopen(/protected/smcreate/post.txt): failed to open stream: No such file or directory (C:\OpenServer\domains\silver96.ms1\protected\commands\MailerCommand.php:47)
+Stack trace:
+#0 C:\OpenServer\domains\silver96.ms1\frmk\console\CConsoleCommand.php(172): ReflectionMethod->invokeArgs()
+#1 C:\OpenServer\domains\silver96.ms1\frmk\console\CConsoleCommandRunner.php(71): MailerCommand->run()
+#2 C:\OpenServer\domains\silver96.ms1\frmk\console\CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#3 C:\OpenServer\domains\silver96.ms1\frmk\base\CApplication.php(184): CConsoleApplication->processRequest()
+#4 C:\OpenServer\domains\silver96.ms1\console.php(13): CConsoleApplication->run()
+
+in C:\OpenServer\domains\silver96.ms1\protected\commands\MailerCommand.php (47)
+in C:\OpenServer\domains\silver96.ms1\console.php (13)
+2017/01/26 15:56:18 [error] [php] fopen(/protected/smcreate/post.txt): failed to open stream: No such file or directory (C:\OpenServer\domains\silver96.ms1\protected\commands\MailerCommand.php:47)
+Stack trace:
+#0 C:\OpenServer\domains\silver96.ms1\frmk\console\CConsoleCommand.php(172): ReflectionMethod->invokeArgs()
+#1 C:\OpenServer\domains\silver96.ms1\frmk\console\CConsoleCommandRunner.php(71): MailerCommand->run()
+#2 C:\OpenServer\domains\silver96.ms1\frmk\console\CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#3 C:\OpenServer\domains\silver96.ms1\frmk\base\CApplication.php(184): CConsoleApplication->processRequest()
+#4 C:\OpenServer\domains\silver96.ms1\console.php(13): CConsoleApplication->run()
+
+in C:\OpenServer\domains\silver96.ms1\protected\commands\MailerCommand.php (47)
+in C:\OpenServer\domains\silver96.ms1\console.php (13)
+2017/01/26 15:56:56 [error] [php] fopen(/protected/smcreate/post.txt): failed to open stream: No such file or directory (C:\OpenServer\domains\silver96.ms1\protected\commands\MailerCommand.php:47)
+Stack trace:
+#0 C:\OpenServer\domains\silver96.ms1\frmk\console\CConsoleCommand.php(172): ReflectionMethod->invokeArgs()
+#1 C:\OpenServer\domains\silver96.ms1\frmk\console\CConsoleCommandRunner.php(71): MailerCommand->run()
+#2 C:\OpenServer\domains\silver96.ms1\frmk\console\CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#3 C:\OpenServer\domains\silver96.ms1\frmk\base\CApplication.php(184): CConsoleApplication->processRequest()
+#4 C:\OpenServer\domains\silver96.ms1\console.php(13): CConsoleApplication->run()
+
+in C:\OpenServer\domains\silver96.ms1\protected\commands\MailerCommand.php (47)
+in C:\OpenServer\domains\silver96.ms1\console.php (13)
+2017/01/27 14:18:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/jquery.numberMask.min.js.map".' in C:\OpenServer\domains\silver96.ms1\frmk\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\silver96.ms1\frmk\web\CWebApplication.php(141): CWebApplication->runController('js/jquery.numbe...')
+#1 C:\OpenServer\domains\silver96.ms1\frmk\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\silver96.ms1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/js/jquery.numberMask.min.js.map
+---
+2017/01/27 16:29:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "cролрол".' in C:\OpenServer\domains\silver96.ms1\frmk\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\silver96.ms1\frmk\web\CWebApplication.php(141): CWebApplication->runController('c\xD1\x80\xD0\xBE\xD0\xBB\xD1\x80\xD0\xBE\xD0\xBB')
+#1 C:\OpenServer\domains\silver96.ms1\frmk\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\silver96.ms1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/c%D1%80%D0%BE%D0%BB%D1%80%D0%BE%D0%BB
+---
+2017/01/27 17:52:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "sdfsdf".' in C:\OpenServer\domains\silver96.ms1\frmk\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\silver96.ms1\frmk\web\CWebApplication.php(141): CWebApplication->runController('sdfsdf')
+#1 C:\OpenServer\domains\silver96.ms1\frmk\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\silver96.ms1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/sdfsdf
+---

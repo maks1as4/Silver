@@ -1,0 +1,37 @@
+ul.mypager {
+	text-align: center;
+}
+ul.mypager a,
+ul.mypager a:visited {
+	padding: 5px 10px;
+	background-color: #ffffff;
+	border: 1px solid #c5beaa;
+	margin: 0px 1px;
+	color: #333333;
+	font-size: 16px;
+	text-decoration: none;
+	font-style: normal;
+}
+ul.mypager a:hover {
+	text-decoration: underline;
+	background-color: #c5beaa;
+}
+ul.mypager {
+	display: inline;
+	margin-right: 10px;
+}
+ul.mypager li {
+	display: inline;
+	margin: 0;
+}
+ul.mypager li.selected a {
+	background-color: #c5beaa;
+}
+ul.mypager li.first,
+ul.mypager li.last {
+	display: none;
+}
+ul.mypager li.previous,
+ul.mypager li.next {
+	display: inline;
+}

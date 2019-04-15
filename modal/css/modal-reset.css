@@ -1,0 +1,213 @@
+/* `XHTML, HTML4, HTML5 Reset
+----------------------------------------------------------------------------------------------------*/
+
+.modalbox a,
+.modalbox abbr,
+.modalbox acronym,
+.modalbox address,
+.modalbox applet,
+.modalbox article,
+.modalbox aside,
+.modalbox audio,
+.modalbox b,
+.modalbox big,
+.modalbox blockquote,
+.modalbox body,
+.modalbox canvas,
+.modalbox caption,
+.modalbox center,
+.modalbox cite,
+.modalbox code,
+.modalbox dd,
+.modalbox del,
+.modalbox details,
+.modalbox dfn,
+.modalbox dialog,
+.modalbox div,
+.modalbox dl,
+.modalbox dt,
+.modalbox em,
+.modalbox embed,
+.modalbox fieldset,
+.modalbox figcaption,
+.modalbox figure,
+.modalbox font,
+.modalbox footer,
+.modalbox form,
+.modalbox h1,
+.modalbox h2,
+.modalbox h3,
+.modalbox h4,
+.modalbox h5,
+.modalbox h6,
+.modalbox header,
+.modalbox hgroup,
+.modalbox hr,
+.modalbox html,
+.modalbox i,
+.modalbox iframe,
+.modalbox img,
+.modalbox ins,
+.modalbox kbd,
+.modalbox label,
+.modalbox legend,
+.modalbox li,
+.modalbox main,
+.modalbox mark,
+.modalbox menu,
+.modalbox meter,
+.modalbox nav,
+.modalbox object,
+.modalbox ol,
+.modalbox output,
+.modalbox p,
+.modalbox pre,
+.modalbox progress,
+.modalbox q,
+.modalbox rp,
+.modalbox rt,
+.modalbox ruby,
+.modalbox s,
+.modalbox samp,
+.modalbox section,
+.modalbox small,
+.modalbox span,
+.modalbox strike,
+.modalbox strong,
+.modalbox sub,
+.modalbox summary,
+.modalbox sup,
+.modalbox table,
+.modalbox tbody,
+.modalbox td,
+.modalbox tfoot,
+.modalbox th,
+.modalbox thead,
+.modalbox time,
+.modalbox tr,
+.modalbox tt,
+.modalbox u,
+.modalbox ul,
+.modalbox var,
+.modalbox video,
+.modalbox xmp {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+}
+
+.modalbox html,
+.modalbox body {
+  height: 100%;
+}
+
+.modalbox article,
+.modalbox aside,
+.modalbox details,
+.modalbox figcaption,
+.modalbox figure,
+.modalbox footer,
+.modalbox header,
+.modalbox hgroup,
+.modalbox main,
+.modalbox menu,
+.modalbox nav,
+.modalbox section {
+/*
+  Override the default (display: inline) for
+  browsers that do not recognize HTML5 tags.
+
+  IE8 (and lower) requires a shiv:
+  http://ejohn.org/blog/html5-shiv
+*/
+  display: block;
+}
+
+.modalbox b,
+.modalbox strong {
+/*
+  Makes browsers agree.
+  IE + Opera = font-weight: bold.
+  Gecko + WebKit = font-weight: bolder.
+*/
+  font-weight: bold;
+}
+
+.modalbox img {
+  color: transparent;
+  font-size: 0;
+  vertical-align: middle;
+/*
+  For IE.
+  http://css-tricks.com/ie-fix-bicubic-scaling-for-images
+*/
+  -ms-interpolation-mode: bicubic;
+}
+
+.modalbox ol,
+.modalbox ul {
+  list-style: none;
+}
+
+.modalbox li {
+/*
+  For IE6 + IE7:
+
+  "display: list-item" keeps bullets from
+  disappearing if hasLayout is triggered.
+*/
+  display: list-item;
+}
+
+.modalbox table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.modalbox th,
+.modalbox td,
+.modalbox caption {
+  font-weight: normal;
+  vertical-align: top;
+  text-align: left;
+}
+
+.modalbox q {
+  quotes: none;
+}
+
+.modalbox q:before,
+.modalbox q:after {
+  content: "";
+  content: none;
+}
+
+.modalbox sub,
+.modalbox sup,
+.modalbox small {
+  font-size: 75%;
+}
+
+.modalbox sub,
+.modalbox sup {
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+.modalbox sub {
+  bottom: -0.25em;
+}
+
+.modalbox sup {
+  top: -0.5em;
+}
+
+.modalbox svg {
+/*
+  For IE9. Without, occasionally draws shapes
+  outside the boundaries of <svg> rectangle.
+*/
+  overflow: hidden;
+}

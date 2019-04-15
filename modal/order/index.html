@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<base href="http://silver96.ru/" />
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<title>Валидация формы с captcha</title>
+<link rel="stylesheet" type="text/css" href="/modal/css/modal-reset.css" />
+<link rel="stylesheet" type="text/css" href="/modal/css/modal.css" />
+</head>
+<body>
+<a href="javascript://" id="show-order-modal" rel="nofollow">отправить заявку</a>
+
+<!--noindex-->
+<div id="order-modal" class="modalbox">
+	<a href="javascript://" class="closexmod modal-close"></a>
+	<div class="headermod">Запись на консультацию</div>
+	<div class="noticemod">
+		<p>Запишитесь на юридическую консультацию в нашем офисе. Укажите тему, Ваш телефон, контактное лицо и желаемую дату и время консультации, когда Вам наиболее удобно подойти.</p>
+		<p>Наши опытные, профессиональные адвокаты и юристы помогут Вам разрешить Вашу проблему, оформить необходимые документы и оказать Вам квалифицированную консультацию.</p>
+		<p>Наши клиенты доверяют нам!</p>
+	</div>
+	<div class="bodymod">
+		<div id="order-subject" class="rowmod">
+			<div class="titlemod">Выберите тему консультации по Вашему делу:<span class="field-required">*</span></div>
+			<select class="wd100pr mod">
+				<option value="500">Консультация по уголовным делам</option>
+				<option value="510">Консультация по семейным спорам</option>
+				<option value="520">Консультация по жилищным спорам</option>
+				<option value="530">Консультация по наследственным делам</option>
+				<option value="540">Консультация в области трудового права</option>
+				<option value="550">Консультация в области земельного права</option>
+				<option value="560">Другое</option>
+			</select>
+		</div>
+		<div id="order-name" class="rowmod">
+			<div class="titlemod">Ваше имя:<span class="field-required">*</span><span class="error-message-modal"></span></div>
+			<input type="text" class="textmod wd540 mod" />
+		</div>
+		<div id="order-phone" class="rowmod">
+			<div class="titlemod">Ваш телефон:<span class="field-required">*</span><span class="error-message-modal"></span></div>
+			<input type="text" class="textmod wd540 mod" />
+		</div>
+		<div id="order-date" class="rowmod">
+			<div class="titlemod">Желаемая дата и время консультации:</div>
+			<div class="descmod">Введите дату и время в произвольном формате</div>
+			<input type="text" class="textmod wd540 mod" />
+		</div>
+		<div id="order-comment" class="rowmod">
+			<div class="titlemod">Краткое описание вашего дела:</div>
+			<textarea class="wd540hi100 mod"></textarea>
+		</div>
+		<div id="order-cost" class="rowmod">
+			<input type="checkbox" class="checkmod mod" /><label class="checkmod">Уточнить стоимость консультации у нашего специалиста</label>
+		</div>
+		<div id="order-captcha" class="rowmod">
+			Введите код:
+			<input type="text" class="input-left10 textmod wd100 mod" maxlength="5" />
+			<div class="cap-left10"><img src="/modal/captcha.php" /></div>
+			<div class="cap-left10"><button id="order-refresh" class="btn" value="refresh">Обновить</button><span class="error-message-modal"></span></div>
+		</div>
+		<button type="submit" id="order-ok" class="btn" value="send">Отправить</button>
+	</div>
+</div><!-- /order-modal -->
+<!--/noindex-->
+
+<script type="text/javascript" charset="utf-8" src="/modal/js/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" charset="utf-8" src="/modal/js/jquery.simplemodal.1.4.4.min.js"></script>
+<script type="text/javascript" charset="utf-8" src="/modal/js/jquery.maskedinput.min.js"></script>
+<script type="text/javascript" charset="utf-8" src="/modal/js/jquery.stickr.min.js"></script>
+<script type="text/javascript" charset="utf-8" src="/modal/order/modal.js"></script>
+</body>
+</html>
